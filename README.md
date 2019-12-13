@@ -3,11 +3,10 @@ Using fcrackzip this bash script main.sh can crack the password of any password 
 
 Steps To Run for any zip File.
 
-1) Extract zip file.
-2) Install fcrackzip using "sudo apt-get install fcrackzip" on terminal (CTRL + ALT + T).
-3) Download rockyou.txt from here. https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
-4) Keep the rockyou.txt in same main.sh folder.
-5) Run bash script using "bash main.sh" on terminal (CTRL + ALT + T).
+1) Install fcrackzip using "sudo apt-get install fcrackzip" on terminal (CTRL + ALT + T).
+2) Download rockyou.txt from here. https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+3) Keep the rockyou.txt in same main.sh folder.
+4) Run bash script using "bash main.sh" on terminal (CTRL + ALT + T).
 
 Changes to be made for other zip file.
 
